@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <link rel="stylesheet" type="text/css" href="styles.css" />
+        <title>신조어</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Responsive navbar-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container px-5">
+                <a class="navbar-brand" href="#!"><h1><b>신구조화</b></h1></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page Content-->
+        <div class="container px-4 px-lg-5">
+            <!-- Heading Row-->
+            <div class="row gx-4 gx-lg-5 align-items-center my-5">
+                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="img/신조어.png" alt="..." /></div>
+                <div class="col-lg-5">
+                    <h1 class="font-weight-light">신조어란?</h1>
+                    <h5><b>시대에 변화에 따른 <br>새로운 것들을 표현하기 위해 <br>새롭게 만들어진 말</h5>
+                    </div>            
+            </div>
+            <h2 class="text-align:center;">신조어 목록</h2><b><hr></b>
+            <h4><b>1.슬세권</b></h4><p>슬리퍼와 세권의 합성어로 슬리퍼와 같은 편한 복장으로 <br>각종 여가·편의시설을 이용할 수 있는 주거 권역을 이르는 신조어다.</p>
+            <h4><b>2.군싹</b></h4><p>군침이 싹 돈다의 줄임말이다.<br>군침이 돌 만큼 맛있거나 좋아보이는것을 수식</p>
+            <h4><b>3.whyrano</b></h4> <p>왜이러니의 사투리 와이라노를 영어로 적은것<br>(OOYAN0) 우야노도 같이 쓰임</p>
+            <h4><b>4.억텐</b></h4><p>억지텐션의 줄임말로<br>억지로 과한 반응을 보일떄 쓰이는 말</p>
+            <h4><b>5.쫌쫌따리</b></h4><p>뼈 닭발에 붙어있는 적은양의 살을 표현할때 나온 말로<br> 아주 조금싹 붙었있는 적은 양을 의미</p>
+            <h4><b>6.완내스</b></h4><p>완전 내 스타일의 줄임말이다.</p>
+            <h4><b>7.레게노</b></h4><p>레전드와 같은뜻으로 쓰이며 게임 방송에서 LEGEND를 잘못보고<br>레게노로 읽은것이 유행</p>
+            <h4><b>8.복세편살</b></h4><p>복잡한 세상 편하게 살자</p>
+            <h4><b>9.당모치</b></h4><p>당연히 모든 치킨은 옳다라는 뜻</p>
+            <h4><b>10.주불</b></h4><p>주소 불러의 줄임말로<br>10대들이 많이 사용하는 용어다.</b></p>
+            <h4><b>11.만반잘부</b></h4><p>만나서 잘 부탁드린다의 줄임말</p>
+            <h4><b>12.잼민이</b></h4><p>재밌다는 뜻의 잼과 재민이라는 이름에서 유래한 합성오로 <br>초등학생의 정도의 어린이를 뜻하는 말</p>
+            <h4><b>15.임포</b></h4><p>어몽어스라는게임에 등장하는 임포스터의 줄임말로</p>
+            <h4><b>16.700</b></h4><P>귀여워를 700으로 표현한것</P>
+            <h4><b>17.오저치고</b></h4><p>오늘 저녁 치킨 고?</p>
+            <h4><b>18.설참</b></h4><p>유튜브에 쓰이는 용어로 설명참조 뜻이다.</p> 
+            <h4><b>19.구취/임구</b></h4><p>구독취소/이미구독</p> 
+            <h4><b>20.갑통알</b></h4><p>갑자기 통장을보니 알바해야겠다.</p>                    
+            <h5><b></b><hr></h5><a href="file:///C:/Users/chlal/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%8B%A4%EB%AC%B4%20%EA%B8%B0%EB%A7%90/%EC%8B%A0%EA%B5%AC%EC%A1%B0%ED%99%94/%EC%8B%A0%EC%A1%B0%EC%96%B4-2.html">2페이지</a>
+           <br><a href="file:///C:/Users/chlal/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%8B%A4%EB%AC%B4%20%EA%B8%B0%EB%A7%90/%EC%8B%A0%EA%B5%AC%EC%A1%B0%ED%99%94/%EA%B5%AC%EC%A1%B0%EC%96%B4.html"> 구조어 알아보러 가기</a>
+           <br><a href="file:///C:/Users/chlal/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%8B%A4%EB%AC%B4%20%EA%B8%B0%EB%A7%90/%EC%8B%A0%EA%B5%AC%EC%A1%B0%ED%99%94/%EC%8B%A0%EA%B5%AC%EC%A1%B0%ED%99%94.html"> 홈으로 가기</a>

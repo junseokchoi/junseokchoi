@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <link rel="stylesheet" type="text/css" href="styles.css" />
+        <title>구조어</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Responsive navbar-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container px-5">
+                <a class="navbar-brand" href="#!"><h1><b>신구조화</b></h1></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page Content-->
+        <div class="container px-4 px-lg-5">
+            <!-- Heading Row-->
+            <div class="row gx-4 gx-lg-5 align-items-center my-5">
+                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="img/구조어p.jpg" alt="..." /></div>
+                <div class="col-lg-5">
+                    <h1 class="font-weight-light"><b>구조어란?</b><hr></h1>
+                <h5><b>신조어에 반대말로 <br>90년대에 젋은세대들이 즐겨 사용했던 <br>당시 신조어를 뜻 한다.</h5>
+                    </div>            
+            </div>
+            <h2 class="text-align:center;"><b>구조어 목록</b><hr></h2><b>
+            <h4><b>1.우심뽀까</b></h4><p>우리 심심한데 뽀뽀나 할까?의<br>줄임말이다.</p>
+            <h4><b>2.장미단추</b></h4><p>장거리 미남 단거리 추남의<br>줄임말이다,</p>
+            <h4><b>3.특공대</b></h4><p>특별히 공부 못하는 대가리의<br> 줄임말이다.</p>
+            <h4><b>4.국산자산</b></h4><p>국어 산수 사회 자연의<br> 줄임말이다.</p>
+            <h4><b>5.mbc</b></h4><P>밑반찬을 뜻한다.</P>
+            <h4><b>6.귀공자</b></h4><p>귀한 공부시간에 자는 사람의 줄임말</p>
+            <h4><b>7.사우나</b></h4><P>사랑과 우정 사이를 나누자</P>
+            
+            <h2 class="text-align:center;"><b>삐삐 용어</b><hr></h2>
+            <h4><b>- 11010</b></h4><P>흥!을 옆으로 뉘어 보인것</P>
+            <h4><b>- 2525</b></h4><P>마워(25)미워(25)</P>
+            <h4><b>- 521000045</b></h4><p>우리(52) 만(10000) 나오(45)</p>
+            <h4><b>- 337</b></h4><p>337(박수)힘내</p>
+            <h4><b>- 6515</b></h4><P>보(6)고(5)싶어(15)</P>
+            <h4><b>- 7179</b></h4><p>친한친구</p>
+            <h4><b>사랑해</b></h4><p>사랑해 글자의 획수</p>
+            <h4><b>0024</b></h4><p>영원히 사랑해</p>
+                <h4><b>5854</b></h4><p>오빠 사랑해</p>
+                <h4><b>7486</b></h4><p>죽도록 사랑해</p>
+                <a href="file:///C:/Users/chlal/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%8B%A4%EB%AC%B4%20%EA%B8%B0%EB%A7%90/%EC%8B%A0%EA%B5%AC%EC%A1%B0%ED%99%94/%EC%8B%A0%EC%A1%B0%EC%96%B4.html"> 신조어 배우러 가기</a>
+                <br><a href="file:///C:/Users/chlal/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%8B%A4%EB%AC%B4%20%EA%B8%B0%EB%A7%90/%EC%8B%A0%EA%B5%AC%EC%A1%B0%ED%99%94/%EC%8B%A0%EA%B5%AC%EC%A1%B0%ED%99%94.html"> 홈으로 가기</a>
